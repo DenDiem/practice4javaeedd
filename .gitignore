@@ -1,0 +1,3 @@
+# Project exclude paths
+/my-starter/target/
+/my-starter-client/target/
